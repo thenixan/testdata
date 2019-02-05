@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "royalty": "10",
+        "royalty_distribution": "before"
+    },
+    {
+        "id": "2",
+        "royalty": "10",
+        "royalty_distribution": "after"
+    },
+    {
+        "id": "3",
+        "royalty": "5",
+        "royalty_distribution": "before"
+    },
+    {
+        "id": "4",
+        "royalty": "5",
+        "royalty_distribution": "before"
+    },
+    {
+        "id": "9",
+        "royalty": "5",
+        "royalty_distribution": "before"
+    },
+    {
+        "id": "10",
+        "royalty": "5",
+        "royalty_distribution": "before"
+    },
+    {
+        "id": "11",
+        "royalty": "5",
+        "royalty_distribution": "before"
+    },
+    {
+        "id": "12",
+        "royalty": "5",
+        "royalty_distribution": "before"
+    },
+    {
+        "id": "13",
+        "royalty": "5",
+        "royalty_distribution": "before"
+    },
+    {
+        "id": "14",
+        "royalty": "5",
+        "royalty_distribution": "before"
+    }
+]
