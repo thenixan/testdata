@@ -1,52 +1,122 @@
 [
     {
         "id": "1",
-        "royalty": "10",
-        "royalty_distribution": "before"
+        "description": {
+            "project_name": "Проект 1",
+            "project_id": 1,
+            "name": "Игра престолов х 1"
+        }
+        "royalty": {
+            "value": 20.20,
+            "distribution": "before"
+        }
     },
     {
         "id": "2",
-        "royalty": "10",
-        "royalty_distribution": "after"
+        "description": {
+            "project_name": "Проект 1",
+            "project_id": 1,
+            "name": "Игра престолов х 2"
+        }
+        "royalty": {
+            "value": 20.20,
+            "distribution": "before"
+        }
     },
     {
         "id": "3",
-        "royalty": "5",
-        "royalty_distribution": "before"
+        "description": {
+            "project_name": "Проект 1",
+            "project_id": 1,
+            "name": "Игра престолов х 3"
+        }
+        "royalty": {
+            "value": 5,
+            "distribution": "before"
+        }
     },
     {
         "id": "4",
-        "royalty": "5",
-        "royalty_distribution": "before"
+        "description": {
+            "project_name": "Проект 5",
+            "project_id": 5,
+            "name": "Sons of anarchy х 1"
+        }
+        "royalty": {
+            "value": 20.20,
+            "distribution": "before"
+        }
     },
     {
         "id": "9",
-        "royalty": "5",
-        "royalty_distribution": "before"
+        "description": {
+            "project_name": "Проект 5",
+            "project_id": 5,
+            "name": "Sons of anarchy х 2"
+        }
+        "royalty": {
+            "value": 20.20,
+            "distribution": "before"
+        }
     },
     {
         "id": "10",
-        "royalty": "5",
-        "royalty_distribution": "before"
+        "description": {
+            "project_name": "Проект 5",
+            "project_id": 5,
+            "name": "Sons of anarchy х 1"
+        }
+        "royalty": {
+            "value": 20.20,
+            "distribution": "after"
+        }
     },
     {
         "id": "11",
-        "royalty": "5",
-        "royalty_distribution": "before"
+        "description": {
+            "project_name": "Проект 2",
+            "project_id": 2,
+            "name": "Sons of anarchy х 2"
+        }
+        "royalty": {
+            "value": 20.20,
+            "distribution": "before"
+        }
     },
     {
         "id": "12",
-        "royalty": "5",
-        "royalty_distribution": "before"
+        "description": {
+            "project_name": "Проект 12",
+            "project_id": 12,
+            "name": "Sons of anarchy х 2"
+        }
+        "royalty": {
+            "value": 20.20,
+            "distribution": "before"
+        }
     },
     {
         "id": "13",
-        "royalty": "5",
-        "royalty_distribution": "before"
+        "description": {
+            "project_name": "Проект 2",
+            "project_id": 2,
+            "name": "Sons of anarchy х 3"
+        }
+        "royalty": {
+            "value": 20.20,
+            "distribution": "before"
+        }
     },
     {
         "id": "14",
-        "royalty": "5",
-        "royalty_distribution": "before"
+        "description": {
+            "project_name": "Проект 2",
+            "project_id": 2,
+            "name": "Sons of anarchy х 4"
+        }
+        "royalty": {
+            "value": 20.20,
+            "distribution": "before"
+        }
     }
 ]
