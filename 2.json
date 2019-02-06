@@ -5,7 +5,7 @@
             "project_name": "Проект 1",
             "project_id": 1,
             "name": "Игра престолов х 1"
-        }
+        },
         "royalty": {
             "value": 20.20,
             "distribution": "before"
@@ -17,7 +17,7 @@
             "project_name": "Проект 1",
             "project_id": 1,
             "name": "Игра престолов х 2"
-        }
+        },
         "royalty": {
             "value": 20.20,
             "distribution": "before"
@@ -29,7 +29,7 @@
             "project_name": "Проект 1",
             "project_id": 1,
             "name": "Игра престолов х 3"
-        }
+        },
         "royalty": {
             "value": 5,
             "distribution": "before"
@@ -41,7 +41,7 @@
             "project_name": "Проект 5",
             "project_id": 5,
             "name": "Sons of anarchy х 1"
-        }
+        },
         "royalty": {
             "value": 20.20,
             "distribution": "before"
@@ -53,7 +53,7 @@
             "project_name": "Проект 5",
             "project_id": 5,
             "name": "Sons of anarchy х 2"
-        }
+        },
         "royalty": {
             "value": 20.20,
             "distribution": "before"
@@ -65,7 +65,7 @@
             "project_name": "Проект 5",
             "project_id": 5,
             "name": "Sons of anarchy х 1"
-        }
+        },
         "royalty": {
             "value": 20.20,
             "distribution": "after"
@@ -77,7 +77,7 @@
             "project_name": "Проект 2",
             "project_id": 2,
             "name": "Sons of anarchy х 2"
-        }
+        },
         "royalty": {
             "value": 20.20,
             "distribution": "before"
@@ -89,7 +89,7 @@
             "project_name": "Проект 12",
             "project_id": 12,
             "name": "Sons of anarchy х 2"
-        }
+        },
         "royalty": {
             "value": 20.20,
             "distribution": "before"
@@ -101,7 +101,7 @@
             "project_name": "Проект 2",
             "project_id": 2,
             "name": "Sons of anarchy х 3"
-        }
+        },
         "royalty": {
             "value": 20.20,
             "distribution": "before"
@@ -113,7 +113,7 @@
             "project_name": "Проект 2",
             "project_id": 2,
             "name": "Sons of anarchy х 4"
-        }
+        },
         "royalty": {
             "value": 20.20,
             "distribution": "before"
